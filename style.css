@@ -29,8 +29,8 @@ body {background-color: darkgrey;
   }
   /* Style the header */
   header {
-    background-image:  url("https://steamuserimages-a.akamaihd.net/ugc/395552769140691100/E76A870DBB4193A84FD66F476F6896E4CB84D274/");
-    padding: calc(620/1123*100%/2) 0;
+    background-image:  url("https://gepig.com/game_cover_bg_1190w/3059.jpg");
+    padding: calc(384/1190*100%/2) 0;
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
